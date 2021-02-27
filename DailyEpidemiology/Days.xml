@@ -180,6 +180,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0.00</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>37</ImportedCasesAbs>
+        <ImportedCasesPcnt>2.37</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_v0.1_05.09.2020_website v3.pdf</SourceFileName>
@@ -362,6 +364,8 @@
         <CasesHospitalisedUnknown></CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown></CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>38</ImportedCasesAbs>
+        <ImportedCasesPcnt>2.32</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_06.09.2020_website V2.pdf</SourceFileName>
@@ -544,6 +548,8 @@
         <CasesHospitalisedUnknown></CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown></CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>37</ImportedCasesAbs>
+        <ImportedCasesPcnt>2.15</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_07092020 - website v3.pdf</SourceFileName>
@@ -726,6 +732,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>32</ImportedCasesAbs>
+        <ImportedCasesPcnt>1.91</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_08092020_Website.pdf</SourceFileName>
@@ -908,6 +916,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>37</ImportedCasesAbs>
+        <ImportedCasesPcnt>1.96</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_09092020_Website.pdf</SourceFileName>
@@ -1090,6 +1100,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>37</ImportedCasesAbs>
+        <ImportedCasesPcnt>2.04</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_10092020_Website.pdf</SourceFileName>
@@ -1272,6 +1284,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>35</ImportedCasesAbs>
+        <ImportedCasesPcnt>1.83</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20200911_Website.pdf</SourceFileName>
@@ -1454,6 +1468,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>39</ImportedCasesAbs>
+        <ImportedCasesPcnt>1.95</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20200912_Website.pdf</SourceFileName>
@@ -1636,6 +1652,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>41</ImportedCasesAbs>
+        <ImportedCasesPcnt>2.03</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20200913_Website.pdf</SourceFileName>
@@ -1818,6 +1836,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>40</ImportedCasesAbs>
+        <ImportedCasesPcnt>1.79</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20200914_Website.pdf</SourceFileName>
@@ -2000,6 +2020,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>42</ImportedCasesAbs>
+        <ImportedCasesPcnt>1.76</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20200915_Website.pdf</SourceFileName>
@@ -2182,6 +2204,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>44</ImportedCasesAbs>
+        <ImportedCasesPcnt>1.74</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_website__20200916.pdf</SourceFileName>
@@ -2364,6 +2388,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>43</ImportedCasesAbs>
+        <ImportedCasesPcnt>1.61</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201917_Website_.pdf</SourceFileName>
@@ -2546,6 +2572,8 @@
         <CasesHospitalisedUnknown></CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown></CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>40</ImportedCasesAbs>
+        <ImportedCasesPcnt>1.42</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201918_Website.pdf</SourceFileName>
@@ -2728,6 +2756,8 @@
         <CasesHospitalisedUnknown></CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown></CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>37</ImportedCasesAbs>
+        <ImportedCasesPcnt>1.25</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20200919_Website_v2.0 (1).pdf</SourceFileName>
@@ -2910,6 +2940,8 @@
         <CasesHospitalisedUnknown></CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown></CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>31</ImportedCasesAbs>
+        <ImportedCasesPcnt>1.03</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19 14 day epidemiology report_20200920_Website.pdf</SourceFileName>
@@ -3092,6 +3124,8 @@
         <CasesHospitalisedUnknown></CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown></CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>29</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.89</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20200921_Website.pdf</SourceFileName>
@@ -3274,6 +3308,8 @@
         <CasesHospitalisedUnknown></CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown></CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>28</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.84</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20200922_Website.pdf</SourceFileName>
@@ -3456,6 +3492,8 @@
         <CasesHospitalisedUnknown></CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown></CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>22</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.65</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_Website_20200923 (1).pdf</SourceFileName>
@@ -3638,6 +3676,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>27</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.77</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20200924_Website.pdf</SourceFileName>
@@ -3820,6 +3860,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>28</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.77</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20200925 - Website.pdf</SourceFileName>
@@ -4002,6 +4044,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>26</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.69</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_Website_26092020.pdf</SourceFileName>
@@ -4184,6 +4228,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>23</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.6</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19 14 day epidemiology report_Website_v0.2.pdf</SourceFileName>
@@ -4366,6 +4412,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>24</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.6</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20200928_Website.pdf</SourceFileName>
@@ -4548,6 +4596,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>23</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.55</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20200929_Website.pdf</SourceFileName>
@@ -4730,6 +4780,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>21</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.5</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20200930 - website.pdf</SourceFileName>
@@ -4912,6 +4964,8 @@
         <CasesHospitalisedUnknown></CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown></CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>21</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.48</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201001 - website.pdf</SourceFileName>
@@ -5094,6 +5148,8 @@
         <CasesHospitalisedUnknown></CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown></CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>23</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.5</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201002 - website.pdf</SourceFileName>
@@ -5276,6 +5332,8 @@
         <CasesHospitalisedUnknown></CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown></CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>21</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.44</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201003_Website.pdf</SourceFileName>
@@ -5458,6 +5516,8 @@
         <CasesHospitalisedUnknown></CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown></CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>20</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.39</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201004_Website.pdf</SourceFileName>
@@ -5640,6 +5700,8 @@
         <CasesHospitalisedUnknown></CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown></CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>20</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.39</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201005_Website.pdf</SourceFileName>
@@ -5822,6 +5884,8 @@
         <CasesHospitalisedUnknown></CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown></CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>20</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.37</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201006_Website.pdf</SourceFileName>
@@ -6004,6 +6068,8 @@
         <CasesHospitalisedUnknown></CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown></CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>19</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.34</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201007 - website.pdf</SourceFileName>
@@ -6186,6 +6252,8 @@
         <CasesHospitalisedUnknown></CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown></CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>13</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.22</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201008 - website.pdf</SourceFileName>
@@ -6368,6 +6436,8 @@
         <CasesHospitalisedUnknown></CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown></CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>14</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.23</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201009 - website.pdf</SourceFileName>
@@ -6550,6 +6620,8 @@
         <CasesHospitalisedUnknown></CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown></CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>15</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.23</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_Website -10102020.pdf</SourceFileName>
@@ -6732,6 +6804,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>16</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.22</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19 14 day epidemiology report_20201011_website.pdf</SourceFileName>
@@ -6914,6 +6988,8 @@
         <CasesHospitalisedUnknown>1</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0.45</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>12</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.16</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19 14 day epidemiology report_20201012_Website.pdf</SourceFileName>
@@ -7096,6 +7172,8 @@
         <CasesHospitalisedUnknown>1</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0.43</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>10</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.13</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_Website_20201013.pdf</SourceFileName>
@@ -7278,6 +7356,8 @@
         <CasesHospitalisedUnknown>1</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0.41</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>9</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.11</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201014 - website.pdf</SourceFileName>
@@ -7460,6 +7540,8 @@
         <CasesHospitalisedUnknown>1</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0.39</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>10</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.11</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201015_Website.pdf</SourceFileName>
@@ -7642,6 +7724,8 @@
         <CasesHospitalisedUnknown>1</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0.36</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>8</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.08</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201016_Website.pdf</SourceFileName>
@@ -7824,6 +7908,8 @@
         <CasesHospitalisedUnknown>1</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0.34</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>6</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.06</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201017_Website.pdf</SourceFileName>
@@ -8006,6 +8092,8 @@
         <CasesHospitalisedUnknown>1</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0.33</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>5</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.05</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19 14 day epidemiology report_Website_18102020.pdf</SourceFileName>
@@ -8188,6 +8276,8 @@
         <CasesHospitalisedUnknown>1</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0.33</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>5</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.04</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201019_Website.pdf</SourceFileName>
@@ -8370,6 +8460,8 @@
         <CasesHospitalisedUnknown>1</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0.33</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>3</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.02</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201020 - website.pdf</SourceFileName>
@@ -8552,6 +8644,8 @@
         <CasesHospitalisedUnknown>2</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0.63</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>4</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.03</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201021_Website.pdf</SourceFileName>
@@ -8734,6 +8828,8 @@
         <CasesHospitalisedUnknown>2</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0.59</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>4</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.03</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201022 - website.pdf</SourceFileName>
@@ -8916,6 +9012,8 @@
         <CasesHospitalisedUnknown>1</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0.28</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>0</ImportedCasesAbs>
+        <ImportedCasesPcnt>0</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>MISSING</SourceFileName>
@@ -9098,6 +9196,8 @@
         <CasesHospitalisedUnknown></CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown></CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs></ImportedCasesAbs>
+        <ImportedCasesPcnt></ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201024_website.pdf</SourceFileName>
@@ -9280,6 +9380,8 @@
         <CasesHospitalisedUnknown>1</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0.27</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>0</ImportedCasesAbs>
+        <ImportedCasesPcnt>0</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201025_Website.pdf</SourceFileName>
@@ -9462,6 +9564,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>0</ImportedCasesAbs>
+        <ImportedCasesPcnt>0</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201026_Website_updated 27102020.pdf</SourceFileName>
@@ -9644,6 +9748,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>0</ImportedCasesAbs>
+        <ImportedCasesPcnt>0</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201027_website.pdf</SourceFileName>
@@ -9826,6 +9932,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>0</ImportedCasesAbs>
+        <ImportedCasesPcnt>0</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201028 - website.pdf</SourceFileName>
@@ -10008,6 +10116,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>0</ImportedCasesAbs>
+        <ImportedCasesPcnt>0</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201029 - website.pdf</SourceFileName>
@@ -10190,6 +10300,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>0</ImportedCasesAbs>
+        <ImportedCasesPcnt>0</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201030 - website.pdf</SourceFileName>
@@ -10372,6 +10484,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>0</ImportedCasesAbs>
+        <ImportedCasesPcnt>0</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_31102020 Website.pdf</SourceFileName>
@@ -10554,6 +10668,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>0</ImportedCasesAbs>
+        <ImportedCasesPcnt>0</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14 day epidemiology report_20201101_website.pdf</SourceFileName>
@@ -10736,6 +10852,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>0</ImportedCasesAbs>
+        <ImportedCasesPcnt>0</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14 day epidemiology report_20201102_website.pdf</SourceFileName>
@@ -10918,6 +11036,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>0</ImportedCasesAbs>
+        <ImportedCasesPcnt>0</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201103 - website.pdf</SourceFileName>
@@ -11100,6 +11220,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>0</ImportedCasesAbs>
+        <ImportedCasesPcnt>0</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201104 -Website.pdf</SourceFileName>
@@ -11282,6 +11404,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>0</ImportedCasesAbs>
+        <ImportedCasesPcnt>0</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14 day epidemiology report_20201105_website.pdf</SourceFileName>
@@ -11464,6 +11588,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>8</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.08</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201106 - Website.pdf</SourceFileName>
@@ -11646,6 +11772,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>10</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.11</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day epidemiology report_v1.0_07112020_Website.pdf</SourceFileName>
@@ -11828,6 +11956,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>11</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.12</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_v1.0_20200811_website.pdf</SourceFileName>
@@ -12010,6 +12140,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>9</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.11</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14 day epidemiology report_20201109_website.pdf</SourceFileName>
@@ -12192,6 +12324,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>10</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.13</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201110 -Website.pdf</SourceFileName>
@@ -12374,6 +12508,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>0</ImportedCasesAbs>
+        <ImportedCasesPcnt>0</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201111 - website.pdf</SourceFileName>
@@ -12556,6 +12692,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>9</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.13</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14 day epidemiology report_12112020 - website.pdf</SourceFileName>
@@ -12738,6 +12876,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>16</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.25</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19 14 day epidemiology report_13112020 - website.pdf</SourceFileName>
@@ -12920,6 +13060,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>16</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.26</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201114 -Website.pdf</SourceFileName>
@@ -13102,6 +13244,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>16</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.26</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201115_website.pdf</SourceFileName>
@@ -13284,6 +13428,8 @@
         <CasesHospitalisedUnknown></CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown></CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>16</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.26</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201116 - website.pdf</SourceFileName>
@@ -13466,6 +13612,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>19</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.33</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201117 - website.pdf</SourceFileName>
@@ -13648,6 +13796,8 @@
         <CasesHospitalisedUnknown></CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown></CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>18</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.31</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19 14 day epidemiology report_20201118_website.pdf</SourceFileName>
@@ -13830,6 +13980,8 @@
         <CasesHospitalisedUnknown></CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown></CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>16</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.28</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14 day epidemiology report_20201119_website.pdf</SourceFileName>
@@ -14012,6 +14164,8 @@
         <CasesHospitalisedUnknown></CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown></CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>14</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.25</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20101120_website.pdf</SourceFileName>
@@ -14194,6 +14348,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>14</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.26</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20101121_website.pdf</SourceFileName>
@@ -14376,6 +14532,8 @@
         <CasesHospitalisedUnknown></CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown></CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>9</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.17</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14 day epidemiology report_20201122_website.pdf</SourceFileName>
@@ -14558,6 +14716,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>9</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.17</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14 day epidemiology report_20201123_website.pdf</SourceFileName>
@@ -14740,6 +14900,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>6</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.12</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201124 _website.pdf</SourceFileName>
@@ -14922,6 +15084,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0.0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>6</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.12</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201125 - website.pdf</SourceFileName>
@@ -15104,6 +15268,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>5</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.1</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201126 - website.pdf</SourceFileName>
@@ -15286,6 +15452,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>4</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.08</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_27112020 - Website.pdf</SourceFileName>
@@ -15468,6 +15636,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0.0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>4</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.09</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day epidemiology report_Website_v2.0_28112020-Website.pdf</SourceFileName>
@@ -15650,6 +15820,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>2</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.04</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201129_website.pdf</SourceFileName>
@@ -15832,6 +16004,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>2</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.05</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201130_website.pdf</SourceFileName>
@@ -16014,6 +16188,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>2</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.05</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201201 - website.pdf</SourceFileName>
@@ -16196,6 +16372,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>2</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.05</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201202 - website.pdf</SourceFileName>
@@ -16378,6 +16556,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>3</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.07</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14 day epidemiology report_20201203_website.pdf</SourceFileName>
@@ -16560,6 +16740,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>4</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.11</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201204_website.pdf</SourceFileName>
@@ -16742,6 +16924,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>5</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.13</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201205_website.pdf</SourceFileName>
@@ -16924,6 +17108,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>7</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.18</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201206 - website.pdf</SourceFileName>
@@ -17106,6 +17292,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>7</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.18</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201207_website.pdf</SourceFileName>
@@ -17288,6 +17476,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>7</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.18</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201208_website.pdf</SourceFileName>
@@ -17470,6 +17660,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>9</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.24</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201209 - website.pdf</SourceFileName>
@@ -17652,6 +17844,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>13</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.34</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201210 - website.pdf</SourceFileName>
@@ -17834,6 +18028,8 @@
         <CasesHospitalisedUnknown></CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown></CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>14</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.37</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201211 -Website.pdf</SourceFileName>
@@ -18016,6 +18212,8 @@
         <CasesHospitalisedUnknown></CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown></CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>14</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.36</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14 day epidemiology report_20201212_website_v2.pdf</SourceFileName>
@@ -18198,6 +18396,8 @@
         <CasesHospitalisedUnknown></CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown></CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>15</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.39</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19 14 day epidemiology report_20201213_website.pdf</SourceFileName>
@@ -18380,6 +18580,8 @@
         <CasesHospitalisedUnknown></CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown></CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>17</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.42</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14 day epidemiology report_20201214_website.pdf</SourceFileName>
@@ -18562,6 +18764,8 @@
         <CasesHospitalisedUnknown></CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown></CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>20</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.5</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201215 -Website.pdf</SourceFileName>
@@ -18744,6 +18948,8 @@
         <CasesHospitalisedUnknown></CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown></CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>20</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.5</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201216 - website.pdf</SourceFileName>
@@ -18926,6 +19132,8 @@
         <CasesHospitalisedUnknown></CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown></CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>17</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.41</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201217 - website.pdf</SourceFileName>
@@ -19108,6 +19316,8 @@
         <CasesHospitalisedUnknown></CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown></CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>17</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.38</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201218 - website.pdf</SourceFileName>
@@ -19290,6 +19500,8 @@
         <CasesHospitalisedUnknown></CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown></CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>15</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.31</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14 day epidemiology report_v1.0_19.12.2020_website.pdf</SourceFileName>
@@ -19472,6 +19684,8 @@
         <CasesHospitalisedUnknown></CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown></CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>16</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.33</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_v1.0_20201220_website.pdf</SourceFileName>
@@ -19654,6 +19868,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>16</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.3</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14 day epidemiology report_20201221_Website.pdf</SourceFileName>
@@ -19836,6 +20052,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>15</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.26</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_v1.0_20201222_website.pdf</SourceFileName>
@@ -20018,6 +20236,8 @@
         <CasesHospitalisedUnknown></CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown></CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>17</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.26</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_v1.0_20201223 website.pdf</SourceFileName>
@@ -20200,6 +20420,8 @@
         <CasesHospitalisedUnknown></CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown></CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>19</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.26</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14 day epidemiology report_v0.1_24.12.2020 Website.pdf</SourceFileName>
@@ -20382,6 +20604,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>19</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.24</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>MISSING</SourceFileName>
@@ -20564,6 +20788,8 @@
         <CasesHospitalisedUnknown></CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown></CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs></ImportedCasesAbs>
+        <ImportedCasesPcnt></ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>MISSING</SourceFileName>
@@ -20746,6 +20972,8 @@
         <CasesHospitalisedUnknown></CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown></CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs></ImportedCasesAbs>
+        <ImportedCasesPcnt></ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day epidemiology report_v1.0_27.12.2020  - website.pdf</SourceFileName>
@@ -20928,6 +21156,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>16</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.16</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201228_website.pdf</SourceFileName>
@@ -21110,6 +21340,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>16</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.15</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14 day epidemiology report_20201229_Website.pdf</SourceFileName>
@@ -21292,6 +21524,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>15</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.13</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14 day epidemiology report_20201230_Website.pdf</SourceFileName>
@@ -21474,6 +21708,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>16</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.12</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201231_website.pdf</SourceFileName>
@@ -21656,6 +21892,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>14</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.1</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20210101_website.pdf</SourceFileName>
@@ -21838,6 +22076,8 @@
         <CasesHospitalisedUnknown></CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown></CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>13</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.08</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20210102_website.pdf</SourceFileName>
@@ -22020,6 +22260,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>11</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.06</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20210103_Website.pdf</SourceFileName>
@@ -22202,6 +22444,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>15</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.07</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20200104_website.pdf</SourceFileName>
@@ -22384,6 +22628,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>13</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.05</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20200105 - website.pdf</SourceFileName>
@@ -22566,6 +22812,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>0</ImportedCasesAbs>
+        <ImportedCasesPcnt>0</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20210106_website.pdf</SourceFileName>
@@ -22748,6 +22996,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>10</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.03</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20210107_website.pdf</SourceFileName>
@@ -22930,6 +23180,8 @@
         <CasesHospitalisedUnknown>1</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0.11</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>10</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.02</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEBSITE report_20210108_updated_20200109.pdf</SourceFileName>
@@ -23112,6 +23364,8 @@
         <CasesHospitalisedUnknown>1</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0.1</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>0</ImportedCasesAbs>
+        <ImportedCasesPcnt>0</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report-website_20200109.pdf</SourceFileName>
@@ -23294,6 +23548,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>0</ImportedCasesAbs>
+        <ImportedCasesPcnt>0</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report-website_20200110.pdf</SourceFileName>
@@ -23476,6 +23732,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>0</ImportedCasesAbs>
+        <ImportedCasesPcnt>0</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_Webite report_20210111_v1.pdf</SourceFileName>
@@ -23658,6 +23916,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>0</ImportedCasesAbs>
+        <ImportedCasesPcnt>0</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210112_v1.pdf</SourceFileName>
@@ -23840,6 +24100,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>0</ImportedCasesAbs>
+        <ImportedCasesPcnt>0</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210113_v1.pdf</SourceFileName>
@@ -24022,6 +24284,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>0</ImportedCasesAbs>
+        <ImportedCasesPcnt>0</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210114.pdf</SourceFileName>
@@ -24204,9 +24468,11 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>0</ImportedCasesAbs>
+        <ImportedCasesPcnt>0</ImportedCasesPcnt>
     </Day>
     <Day>
-        <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210115 v2.0.pdf</SourceFileName>
+        <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210115.pdf</SourceFileName>
         <FromDate>01/01/2021</FromDate>
         <ToDate>14/01/2021</ToDate>
         <PreparedDate>15/01/2021</PreparedDate>
@@ -24386,6 +24652,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>0</ImportedCasesAbs>
+        <ImportedCasesPcnt>0</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20210116_WEB v2.pdf</SourceFileName>
@@ -24568,6 +24836,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0.00</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>0</ImportedCasesAbs>
+        <ImportedCasesPcnt>0</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19 14 day epidemiology report_20210117_WEB_v1.0.pdf</SourceFileName>
@@ -24750,6 +25020,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>0</ImportedCasesAbs>
+        <ImportedCasesPcnt>0</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210118.pdf</SourceFileName>
@@ -24932,6 +25204,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>0</ImportedCasesAbs>
+        <ImportedCasesPcnt>0</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210119.pdf</SourceFileName>
@@ -25114,6 +25388,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>0</ImportedCasesAbs>
+        <ImportedCasesPcnt>0</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20200120.pdf</SourceFileName>
@@ -25296,6 +25572,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>11</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.02</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210121.pdf</SourceFileName>
@@ -25478,6 +25756,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>9</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.02</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210122_v1.pdf</SourceFileName>
@@ -25660,6 +25940,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>9</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.02</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19 14 day epidemiology report_20210123_website.pdf</SourceFileName>
@@ -25842,6 +26124,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>9</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.02</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20210124_Website.pdf</SourceFileName>
@@ -26024,6 +26308,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>10</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.02</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210125_v1.0.pdf</SourceFileName>
@@ -26206,6 +26492,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>9</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.02</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20210126 Website.pdf</SourceFileName>
@@ -26388,6 +26676,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>9</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.03</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20210127_Website.pdf</SourceFileName>
@@ -26570,6 +26860,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>9</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.03</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210128.pdf</SourceFileName>
@@ -26752,6 +27044,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>12</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.04</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210129_v1.pdf</SourceFileName>
@@ -26934,6 +27228,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>22</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.08</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19 14 day epidemiology report_30.01.2021 website.pdf</SourceFileName>
@@ -27116,6 +27412,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>22</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.09</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_31.01.2021 website.pdf</SourceFileName>
@@ -27298,6 +27596,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>22</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.09</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210201_v1.pdf</SourceFileName>
@@ -27480,6 +27780,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>22</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.1</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210202_v1.pdf</SourceFileName>
@@ -27662,6 +27964,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>20</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.09</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20200203 Website.pdf</SourceFileName>
@@ -27844,6 +28148,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>13</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.06</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210204_v1.pdf</SourceFileName>
@@ -28026,6 +28332,8 @@
         <CasesHospitalisedUnknown>1</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0.07</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>12</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.06</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210205_v1.pdf</SourceFileName>
@@ -28208,6 +28516,8 @@
         <CasesHospitalisedUnknown>1</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0.08</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>10</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.06</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20210205_WEB_v1.0.pdf</SourceFileName>
@@ -28390,6 +28700,8 @@
         <CasesHospitalisedUnknown>1</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0.08</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>8</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.05</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20210207 WEB.pdf</SourceFileName>
@@ -28572,6 +28884,8 @@
         <CasesHospitalisedUnknown>1</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0.08</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>8</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.05</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19 14 day epidemiology report_20200208_website.pdf</SourceFileName>
@@ -28754,6 +29068,8 @@
         <CasesHospitalisedUnknown>1</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0.08</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>6</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.04</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20210209_ Website.pdf</SourceFileName>
@@ -28936,6 +29252,8 @@
         <CasesHospitalisedUnknown>1</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0.09</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>7</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.05</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210210.pdf</SourceFileName>
@@ -29118,6 +29436,8 @@
         <CasesHospitalisedUnknown>1</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0.09</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>7</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.05</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210211.pdf</SourceFileName>
@@ -29300,6 +29620,8 @@
         <CasesHospitalisedUnknown>1</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0.09</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>8</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.06</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210212.pdf</SourceFileName>
@@ -29482,6 +29804,8 @@
         <CasesHospitalisedUnknown>1</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0.09</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>7</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.05</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20210213 Web.pdf</SourceFileName>
@@ -29664,6 +29988,8 @@
         <CasesHospitalisedUnknown>1</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0.10</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>6</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.04</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20210214_website.pdf</SourceFileName>
@@ -29846,6 +30172,8 @@
         <CasesHospitalisedUnknown>1</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0.10</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>4</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.03</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210215.pdf</SourceFileName>
@@ -30028,6 +30356,8 @@
         <CasesHospitalisedUnknown>1</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0.11</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>4</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.03</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20210216_WEB.pdf</SourceFileName>
@@ -30210,6 +30540,8 @@
         <CasesHospitalisedUnknown>1</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0.11</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>3</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.02</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210217.pdf</SourceFileName>
@@ -30392,6 +30724,8 @@
         <CasesHospitalisedUnknown>1</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0.11</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>4</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.03</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210218.pdf</SourceFileName>
@@ -30574,6 +30908,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>4</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.03</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20210219_WEB.pdf</SourceFileName>
@@ -30756,6 +31092,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>9</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.08</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_website_20210220.pdf</SourceFileName>
@@ -30938,6 +31276,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>10</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.08</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19 14 day epidemiology report 20210221 website.pdf</SourceFileName>
@@ -31120,6 +31460,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0.00</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>11</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.1</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20210222_WEB.pdf</SourceFileName>
@@ -31302,6 +31644,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>11</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.1</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20210223_WEB.pdf</SourceFileName>
@@ -31484,6 +31828,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>11</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.1</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210224_v1.0.pdf</SourceFileName>
@@ -31666,6 +32012,8 @@
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>9</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.08</ImportedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210225_v1.0.pdf</SourceFileName>
@@ -31848,5 +32196,191 @@
         <CasesHospitalisedUnknown>1</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0.14</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>13</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.12</ImportedCasesPcnt>
+    </Day>
+    <Day>
+        <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210226_v1.0.pdf</SourceFileName>
+        <FromDate>12/02/2021</FromDate>
+        <ToDate>25/02/2021</ToDate>
+        <PreparedDate>26/02/2021</PreparedDate>
+        <TotalConfirmedCasesAbs>10619</TotalConfirmedCasesAbs>
+        <TotalConfirmedCasesPcnt>100</TotalConfirmedCasesPcnt>
+        <SexMaleFemaleRatio>1.01</SexMaleFemaleRatio>
+        <SexMaleAbs>5329</SexMaleAbs>
+        <SexMalePcnt>50.18</SexMalePcnt>
+        <SexFemaleAbs>5271</SexFemaleAbs>
+        <SexFemalePcnt>49.64</SexFemalePcnt>
+        <SexUnknownAbs>19</SexUnknownAbs>
+        <SexUnknownPcnt>0.18</SexUnknownPcnt>
+        <AgeMedian>33</AgeMedian>
+        <AgeMean>36</AgeMean>
+        <Age0To4Abs>589</Age0To4Abs>
+        <Age0To4Pcnt>5.55</Age0To4Pcnt>
+        <Age5To12Abs>854</Age5To12Abs>
+        <Age5To12Pcnt>8.04</Age5To12Pcnt>
+        <Age13To18Abs>758</Age13To18Abs>
+        <Age13To18Pcnt>7.14</Age13To18Pcnt>
+        <Age19To24Abs>1731</Age19To24Abs>
+        <Age19To24Pcnt>16.3</Age19To24Pcnt>
+        <Age25To34Abs>1677</Age25To34Abs>
+        <Age25To34Pcnt>15.79</Age25To34Pcnt>
+        <Age35To44Abs>1641</Age35To44Abs>
+        <Age35To44Pcnt>15.45</Age35To44Pcnt>
+        <Age45To54Abs>1346</Age45To54Abs>
+        <Age45To54Pcnt>12.68</Age45To54Pcnt>
+        <Age55To64Abs>911</Age55To64Abs>
+        <Age55To64Pcnt>8.58</Age55To64Pcnt>
+        <Age65To74Abs>482</Age65To74Abs>
+        <Age65To74Pcnt>4.54</Age65To74Pcnt>
+        <Age75To84Abs>375</Age75To84Abs>
+        <Age75To84Pcnt>3.53</Age75To84Pcnt>
+        <Age85PlusAbs>254</Age85PlusAbs>
+        <Age85PlusPcnt>2.39</Age85PlusPcnt>
+        <AgeUnknownAbs>1</AgeUnknownAbs>
+        <AgeUnknownPcnt>0.01</AgeUnknownPcnt>        <CHO1Abs>737</CHO1Abs>
+        <CHO1Rate>188.4</CHO1Rate>
+        <CHO2Abs>1244</CHO2Abs>
+        <CHO2Rate>274.5</CHO2Rate>
+        <CHO3Abs>840</CHO3Abs>
+        <CHO3Rate>218.2</CHO3Rate>
+        <CHO4Abs>424</CHO4Abs>
+        <CHO4Rate>61.4</CHO4Rate>
+        <CHO5Abs>865</CHO5Abs>
+        <CHO5Rate>169.5</CHO5Rate>
+        <CHO6Abs>818</CHO6Abs>
+        <CHO6Rate>213.5</CHO6Rate>
+        <CHO7Abs>1598</CHO7Abs>
+        <CHO7Rate>225.8</CHO7Rate>
+        <CHO8Abs>1735</CHO8Abs>
+        <CHO8Rate>280.2</CHO8Rate>
+        <CHO9Abs>2358</CHO9Abs>
+        <CHO9Rate>379.5</CHO9Rate>
+        <CarlowAbs>115</CarlowAbs>
+        <CarlowRate>202.0</CarlowRate>
+        <CavanAbs>147</CavanAbs>
+        <CavanRate>193.0</CavanRate>
+        <ClareAbs>186</ClareAbs>
+        <ClareRate>156.5</ClareRate>
+        <CorkAbs>372</CorkAbs>
+        <CorkRate>68.5</CorkRate>
+        <DonegalAbs>298</DonegalAbs>
+        <DonegalRate>187.2</DonegalRate>
+        <DublinAbs>4038</DublinAbs>
+        <DublinRate>299.7</DublinRate>
+        <GalwayAbs>847</GalwayAbs>
+        <GalwayRate>328.2</GalwayRate>
+        <KerryAbs>52</KerryAbs>
+        <KerryRate>35.2</KerryRate>
+        <KildareAbs>582</KildareAbs>
+        <KildareRate>261.6</KildareRate>
+        <KilkennyAbs>91</KilkennyAbs>
+        <KilkennyRate>91.7</KilkennyRate>
+        <LaoisAbs>235</LaoisAbs>
+        <LaoisRate>277.5</LaoisRate>
+        <LeitrimAbs>58</LeitrimAbs>
+        <LeitrimRate>181.0</LeitrimRate>
+        <LimerickAbs>528</LimerickAbs>
+        <LimerickRate>270.9</LimerickRate>
+        <LongfordAbs>114</LongfordAbs>
+        <LongfordRate>278.9</LongfordRate>
+        <LouthAbs>369</LouthAbs>
+        <LouthRate>286.3</LouthRate>
+        <MayoAbs>330</MayoAbs>
+        <MayoRate>252.9</MayoRate>
+        <MeathAbs>469</MeathAbs>
+        <MeathRate>240.5</MeathRate>
+        <MonaghanAbs>169</MonaghanAbs>
+        <MonaghanRate>275.3</MonaghanRate>
+        <OffalyAbs>308</OffalyAbs>
+        <OffalyRate>395.1</OffalyRate>
+        <RoscommonAbs>67</RoscommonAbs>
+        <RoscommonRate>103.8</RoscommonRate>
+        <SligoAbs>66</SligoAbs>
+        <SligoRate>100.7</SligoRate>
+        <TipperaryAbs>308</TipperaryAbs>
+        <TipperaryRate>193.0</TipperaryRate>
+        <WaterfordAbs>283</WaterfordAbs>
+        <WaterfordRate>243.6</WaterfordRate>
+        <WestmeathAbs>239</WestmeathAbs>
+        <WestmeathRate>269.2</WestmeathRate>
+        <WexfordAbs>194</WexfordAbs>
+        <WexfordRate>129.6</WexfordRate>
+        <WicklowAbs>154</WicklowAbs>
+        <WicklowRate>108.1</WicklowRate>
+        <DublinNorthAbs>562</DublinNorthAbs>
+        <DublinNorthRate>216.9</DublinNorthRate>
+        <DublinNorthCentralAbs>1019</DublinNorthCentralAbs>
+        <DublinNorthCentralRate>659.2</DublinNorthCentralRate>
+        <DublinNorthWestAbs>777</DublinNorthWestAbs>
+        <DublinNorthWestRate>374.2</DublinNorthWestRate>
+        <DublinSouthAbs>168</DublinSouthAbs>
+        <DublinSouthRate>123.5</DublinSouthRate>
+        <DublinSouthCityAbs>202</DublinSouthCityAbs>
+        <DublinSouthCityRate>134.7</DublinSouthCityRate>
+        <DublinSouthEastAbs>504</DublinSouthEastAbs>
+        <DublinSouthEastRate>407.4</DublinSouthEastRate>
+        <DublinSouthWestAbs>333</DublinSouthWestAbs>
+        <DublinSouthWestRate>207.0</DublinSouthWestRate>
+        <DublinWestAbs>473</DublinWestAbs>
+        <DublinWestRate>304.5</DublinWestRate>
+        <Cases0To4>589</Cases0To4>
+        <CasesHospitalised0To4>16</CasesHospitalised0To4>
+        <CasesHospitalisedPcnt0To4>2.23</CasesHospitalisedPcnt0To4>
+        <CasesAdmittedToIcu0To4>0</CasesAdmittedToIcu0To4>
+        <Cases13To18>758</Cases13To18>
+        <CasesHospitalised13To18>15</CasesHospitalised13To18>
+        <CasesHospitalisedPcnt13To18>2.09</CasesHospitalisedPcnt13To18>
+        <CasesAdmittedToIcu13To18>0</CasesAdmittedToIcu13To18>
+        <Cases15To24></Cases15To24>
+        <CasesHospitalised15To24></CasesHospitalised15To24>
+        <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
+        <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To24>1731</Cases19To24>
+        <CasesHospitalised19To24>55</CasesHospitalised19To24>
+        <CasesHospitalisedPcnt19To24>7.67</CasesHospitalisedPcnt19To24>
+        <CasesAdmittedToIcu19To24>0</CasesAdmittedToIcu19To24>
+        <Cases25To34>1677</Cases25To34>
+        <CasesHospitalised25To34>65</CasesHospitalised25To34>
+        <CasesHospitalisedPcnt25To34>9.07</CasesHospitalisedPcnt25To34>
+        <CasesAdmittedToIcu25To34>0</CasesAdmittedToIcu25To34>
+        <Cases35To44>1641</Cases35To44>
+        <CasesHospitalised35To44>63</CasesHospitalised35To44>
+        <CasesHospitalisedPcnt35To44>8.79</CasesHospitalisedPcnt35To44>
+        <CasesAdmittedToIcu35To44>0</CasesAdmittedToIcu35To44>
+        <Cases45To54></Cases45To54>
+        <CasesHospitalised45To54></CasesHospitalised45To54>
+        <CasesHospitalisedPcnt45To54></CasesHospitalisedPcnt45To54>
+        <CasesAdmittedToIcu45To54></CasesAdmittedToIcu45To54>
+        <Cases55To64>911</Cases55To64>
+        <CasesHospitalised55To64>79</CasesHospitalised55To64>
+        <CasesHospitalisedPcnt55To64>11.02</CasesHospitalisedPcnt55To64>
+        <CasesAdmittedToIcu55To64>7</CasesAdmittedToIcu55To64>
+        <Cases5To12>854</Cases5To12>
+        <CasesHospitalised5To12>13</CasesHospitalised5To12>
+        <CasesHospitalisedPcnt5To12>1.81</CasesHospitalisedPcnt5To12>
+        <CasesAdmittedToIcu5To12>0</CasesAdmittedToIcu5To12>
+        <Cases5To14></Cases5To14>
+        <CasesHospitalised5To14></CasesHospitalised5To14>
+        <CasesHospitalisedPcnt5To14></CasesHospitalisedPcnt5To14>
+        <CasesAdmittedToIcu5To14></CasesAdmittedToIcu5To14>
+        <Cases65To74>482</Cases65To74>
+        <CasesHospitalised65To74>112</CasesHospitalised65To74>
+        <CasesHospitalisedPcnt65To74>15.62</CasesHospitalisedPcnt65To74>
+        <CasesAdmittedToIcu65To74>11</CasesAdmittedToIcu65To74>
+        <Cases75To84>375</Cases75To84>
+        <CasesHospitalised75To84>131</CasesHospitalised75To84>
+        <CasesHospitalisedPcnt75To84>18.27</CasesHospitalisedPcnt75To84>
+        <CasesAdmittedToIcu75To84>0</CasesAdmittedToIcu75To84>
+        <Cases85Plus>254</Cases85Plus>
+        <CasesHospitalised85Plus>75</CasesHospitalised85Plus>
+        <CasesHospitalisedPcnt85Plus>10.46</CasesHospitalisedPcnt85Plus>
+        <CasesAdmittedToIcu85Plus>0</CasesAdmittedToIcu85Plus>
+        <CasesUnknown>1</CasesUnknown>
+        <CasesHospitalisedUnknown>1</CasesHospitalisedUnknown>
+        <CasesHospitalisedPcntUnknown>0.14</CasesHospitalisedPcntUnknown>
+        <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+        <ImportedCasesAbs>14</ImportedCasesAbs>
+        <ImportedCasesPcnt>0.13</ImportedCasesPcnt>
     </Day>
 </Days>
