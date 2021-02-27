@@ -182,6 +182,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>37</ImportedCasesAbs>
         <ImportedCasesPcnt>2.37</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>114</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>7.32</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_v0.1_05.09.2020_website v3.pdf</SourceFileName>
@@ -366,6 +368,8 @@
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>38</ImportedCasesAbs>
         <ImportedCasesPcnt>2.32</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>115</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>7.02</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_06.09.2020_website V2.pdf</SourceFileName>
@@ -550,6 +554,8 @@
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>37</ImportedCasesAbs>
         <ImportedCasesPcnt>2.15</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>118</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>6.87</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_07092020 - website v3.pdf</SourceFileName>
@@ -734,6 +740,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>32</ImportedCasesAbs>
         <ImportedCasesPcnt>1.91</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>111</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>6.64</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_08092020_Website.pdf</SourceFileName>
@@ -918,6 +926,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>37</ImportedCasesAbs>
         <ImportedCasesPcnt>1.96</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>122</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>6.46</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_09092020_Website.pdf</SourceFileName>
@@ -1102,6 +1112,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>37</ImportedCasesAbs>
         <ImportedCasesPcnt>2.04</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>120</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>6.63</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_10092020_Website.pdf</SourceFileName>
@@ -1286,6 +1298,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>35</ImportedCasesAbs>
         <ImportedCasesPcnt>1.83</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>109</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>5.70</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20200911_Website.pdf</SourceFileName>
@@ -1470,6 +1484,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>39</ImportedCasesAbs>
         <ImportedCasesPcnt>1.95</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>117</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>5.86</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20200912_Website.pdf</SourceFileName>
@@ -1654,6 +1670,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>41</ImportedCasesAbs>
         <ImportedCasesPcnt>2.03</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>117</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>5.80</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20200913_Website.pdf</SourceFileName>
@@ -1838,6 +1856,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>40</ImportedCasesAbs>
         <ImportedCasesPcnt>1.79</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>118</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>5.29</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20200914_Website.pdf</SourceFileName>
@@ -2022,6 +2042,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>42</ImportedCasesAbs>
         <ImportedCasesPcnt>1.76</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>121</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>5.08</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20200915_Website.pdf</SourceFileName>
@@ -2206,6 +2228,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>44</ImportedCasesAbs>
         <ImportedCasesPcnt>1.74</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>126</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>4.99</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_website__20200916.pdf</SourceFileName>
@@ -2390,6 +2414,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>43</ImportedCasesAbs>
         <ImportedCasesPcnt>1.61</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>126</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>4.70</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201917_Website_.pdf</SourceFileName>
@@ -2574,6 +2600,8 @@
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>40</ImportedCasesAbs>
         <ImportedCasesPcnt>1.42</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>121</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>4.30</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201918_Website.pdf</SourceFileName>
@@ -2758,6 +2786,8 @@
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>37</ImportedCasesAbs>
         <ImportedCasesPcnt>1.25</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>121</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>4.07</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20200919_Website_v2.0 (1).pdf</SourceFileName>
@@ -2942,6 +2972,8 @@
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>31</ImportedCasesAbs>
         <ImportedCasesPcnt>1.03</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>108</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>3.59</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19 14 day epidemiology report_20200920_Website.pdf</SourceFileName>
@@ -3126,6 +3158,8 @@
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>29</ImportedCasesAbs>
         <ImportedCasesPcnt>0.89</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>103</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>3.15</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20200921_Website.pdf</SourceFileName>
@@ -3310,6 +3344,8 @@
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>28</ImportedCasesAbs>
         <ImportedCasesPcnt>0.84</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>103</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>3.07</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20200922_Website.pdf</SourceFileName>
@@ -3494,6 +3530,8 @@
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>22</ImportedCasesAbs>
         <ImportedCasesPcnt>0.65</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>94</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>2.79</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_Website_20200923 (1).pdf</SourceFileName>
@@ -3678,6 +3716,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>27</ImportedCasesAbs>
         <ImportedCasesPcnt>0.77</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>103</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>2.93</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20200924_Website.pdf</SourceFileName>
@@ -3862,6 +3902,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>28</ImportedCasesAbs>
         <ImportedCasesPcnt>0.77</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>99</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>2.72</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20200925 - Website.pdf</SourceFileName>
@@ -4046,6 +4088,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>26</ImportedCasesAbs>
         <ImportedCasesPcnt>0.69</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>93</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>2.48</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_Website_26092020.pdf</SourceFileName>
@@ -4230,6 +4274,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>23</ImportedCasesAbs>
         <ImportedCasesPcnt>0.6</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>89</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>2.31</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19 14 day epidemiology report_Website_v0.2.pdf</SourceFileName>
@@ -4414,6 +4460,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>24</ImportedCasesAbs>
         <ImportedCasesPcnt>0.6</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>90</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>2.24</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20200928_Website.pdf</SourceFileName>
@@ -4598,6 +4646,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>23</ImportedCasesAbs>
         <ImportedCasesPcnt>0.55</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>91</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>2.17</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20200929_Website.pdf</SourceFileName>
@@ -4782,6 +4832,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>21</ImportedCasesAbs>
         <ImportedCasesPcnt>0.5</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>91</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>2.16</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20200930 - website.pdf</SourceFileName>
@@ -4966,6 +5018,8 @@
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>21</ImportedCasesAbs>
         <ImportedCasesPcnt>0.48</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>91</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>2.08</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201001 - website.pdf</SourceFileName>
@@ -5150,6 +5204,8 @@
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>23</ImportedCasesAbs>
         <ImportedCasesPcnt>0.5</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>91</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>1.98</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201002 - website.pdf</SourceFileName>
@@ -5334,6 +5390,8 @@
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>21</ImportedCasesAbs>
         <ImportedCasesPcnt>0.44</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>84</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>1.75</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201003_Website.pdf</SourceFileName>
@@ -5518,6 +5576,8 @@
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>20</ImportedCasesAbs>
         <ImportedCasesPcnt>0.39</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>87</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>1.69</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201004_Website.pdf</SourceFileName>
@@ -5702,6 +5762,8 @@
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>20</ImportedCasesAbs>
         <ImportedCasesPcnt>0.39</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>84</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>1.64</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201005_Website.pdf</SourceFileName>
@@ -5886,6 +5948,8 @@
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>20</ImportedCasesAbs>
         <ImportedCasesPcnt>0.37</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>91</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>1.67</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201006_Website.pdf</SourceFileName>
@@ -6070,6 +6134,8 @@
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>19</ImportedCasesAbs>
         <ImportedCasesPcnt>0.34</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>86</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>1.55</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201007 - website.pdf</SourceFileName>
@@ -6254,6 +6320,8 @@
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>13</ImportedCasesAbs>
         <ImportedCasesPcnt>0.22</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>85</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>1.43</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201008 - website.pdf</SourceFileName>
@@ -6438,6 +6506,8 @@
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>14</ImportedCasesAbs>
         <ImportedCasesPcnt>0.23</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>81</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>1.33</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201009 - website.pdf</SourceFileName>
@@ -6622,6 +6692,8 @@
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>15</ImportedCasesAbs>
         <ImportedCasesPcnt>0.23</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>82</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>1.28</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_Website -10102020.pdf</SourceFileName>
@@ -6806,6 +6878,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>16</ImportedCasesAbs>
         <ImportedCasesPcnt>0.22</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>83</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>1.16</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19 14 day epidemiology report_20201011_website.pdf</SourceFileName>
@@ -6990,6 +7064,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>12</ImportedCasesAbs>
         <ImportedCasesPcnt>0.16</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>69</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.91</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19 14 day epidemiology report_20201012_Website.pdf</SourceFileName>
@@ -7174,6 +7250,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>10</ImportedCasesAbs>
         <ImportedCasesPcnt>0.13</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>64</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.80</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_Website_20201013.pdf</SourceFileName>
@@ -7358,6 +7436,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>9</ImportedCasesAbs>
         <ImportedCasesPcnt>0.11</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>61</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.72</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201014 - website.pdf</SourceFileName>
@@ -7542,6 +7622,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>10</ImportedCasesAbs>
         <ImportedCasesPcnt>0.11</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>66</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.73</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201015_Website.pdf</SourceFileName>
@@ -7726,6 +7808,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>8</ImportedCasesAbs>
         <ImportedCasesPcnt>0.08</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>69</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.70</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201016_Website.pdf</SourceFileName>
@@ -7910,6 +7994,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>6</ImportedCasesAbs>
         <ImportedCasesPcnt>0.06</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>62</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.60</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201017_Website.pdf</SourceFileName>
@@ -8094,6 +8180,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>5</ImportedCasesAbs>
         <ImportedCasesPcnt>0.05</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>55</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.50</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19 14 day epidemiology report_Website_18102020.pdf</SourceFileName>
@@ -8278,6 +8366,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>5</ImportedCasesAbs>
         <ImportedCasesPcnt>0.04</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>49</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.41</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201019_Website.pdf</SourceFileName>
@@ -8462,6 +8552,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>3</ImportedCasesAbs>
         <ImportedCasesPcnt>0.02</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>47</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.38</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201020 - website.pdf</SourceFileName>
@@ -8646,6 +8738,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>4</ImportedCasesAbs>
         <ImportedCasesPcnt>0.03</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>42</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.32</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201021_Website.pdf</SourceFileName>
@@ -8830,6 +8924,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>4</ImportedCasesAbs>
         <ImportedCasesPcnt>0.03</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>36</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.26</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201022 - website.pdf</SourceFileName>
@@ -9014,6 +9110,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>0</ImportedCasesAbs>
         <ImportedCasesPcnt>0</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>MISSING</SourceFileName>
@@ -9198,6 +9296,8 @@
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs></ImportedCasesAbs>
         <ImportedCasesPcnt></ImportedCasesPcnt>
+        <TravelRelatedCasesAbs></TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt></TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201024_website.pdf</SourceFileName>
@@ -9382,6 +9482,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>0</ImportedCasesAbs>
         <ImportedCasesPcnt>0</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201025_Website.pdf</SourceFileName>
@@ -9566,6 +9668,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>0</ImportedCasesAbs>
         <ImportedCasesPcnt>0</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201026_Website_updated 27102020.pdf</SourceFileName>
@@ -9750,6 +9854,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>0</ImportedCasesAbs>
         <ImportedCasesPcnt>0</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201027_website.pdf</SourceFileName>
@@ -9934,6 +10040,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>0</ImportedCasesAbs>
         <ImportedCasesPcnt>0</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201028 - website.pdf</SourceFileName>
@@ -10118,6 +10226,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>0</ImportedCasesAbs>
         <ImportedCasesPcnt>0</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201029 - website.pdf</SourceFileName>
@@ -10302,6 +10412,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>0</ImportedCasesAbs>
         <ImportedCasesPcnt>0</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201030 - website.pdf</SourceFileName>
@@ -10486,6 +10598,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>0</ImportedCasesAbs>
         <ImportedCasesPcnt>0</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_31102020 Website.pdf</SourceFileName>
@@ -10670,6 +10784,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>0</ImportedCasesAbs>
         <ImportedCasesPcnt>0</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14 day epidemiology report_20201101_website.pdf</SourceFileName>
@@ -10854,6 +10970,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>0</ImportedCasesAbs>
         <ImportedCasesPcnt>0</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14 day epidemiology report_20201102_website.pdf</SourceFileName>
@@ -11038,6 +11156,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>0</ImportedCasesAbs>
         <ImportedCasesPcnt>0</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201103 - website.pdf</SourceFileName>
@@ -11222,6 +11342,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>0</ImportedCasesAbs>
         <ImportedCasesPcnt>0</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201104 -Website.pdf</SourceFileName>
@@ -11406,6 +11528,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>0</ImportedCasesAbs>
         <ImportedCasesPcnt>0</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14 day epidemiology report_20201105_website.pdf</SourceFileName>
@@ -11590,6 +11714,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>8</ImportedCasesAbs>
         <ImportedCasesPcnt>0.08</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201106 - Website.pdf</SourceFileName>
@@ -11774,6 +11900,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>10</ImportedCasesAbs>
         <ImportedCasesPcnt>0.11</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day epidemiology report_v1.0_07112020_Website.pdf</SourceFileName>
@@ -11958,6 +12086,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>11</ImportedCasesAbs>
         <ImportedCasesPcnt>0.12</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_v1.0_20200811_website.pdf</SourceFileName>
@@ -12142,6 +12272,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>9</ImportedCasesAbs>
         <ImportedCasesPcnt>0.11</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14 day epidemiology report_20201109_website.pdf</SourceFileName>
@@ -12326,6 +12458,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>10</ImportedCasesAbs>
         <ImportedCasesPcnt>0.13</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201110 -Website.pdf</SourceFileName>
@@ -12510,6 +12644,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>0</ImportedCasesAbs>
         <ImportedCasesPcnt>0</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201111 - website.pdf</SourceFileName>
@@ -12694,6 +12830,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>9</ImportedCasesAbs>
         <ImportedCasesPcnt>0.13</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14 day epidemiology report_12112020 - website.pdf</SourceFileName>
@@ -12878,6 +13016,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>16</ImportedCasesAbs>
         <ImportedCasesPcnt>0.25</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19 14 day epidemiology report_13112020 - website.pdf</SourceFileName>
@@ -13062,6 +13202,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>16</ImportedCasesAbs>
         <ImportedCasesPcnt>0.26</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201114 -Website.pdf</SourceFileName>
@@ -13246,6 +13388,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>16</ImportedCasesAbs>
         <ImportedCasesPcnt>0.26</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201115_website.pdf</SourceFileName>
@@ -13430,6 +13574,8 @@
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>16</ImportedCasesAbs>
         <ImportedCasesPcnt>0.26</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201116 - website.pdf</SourceFileName>
@@ -13614,6 +13760,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>19</ImportedCasesAbs>
         <ImportedCasesPcnt>0.33</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201117 - website.pdf</SourceFileName>
@@ -13798,6 +13946,8 @@
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>18</ImportedCasesAbs>
         <ImportedCasesPcnt>0.31</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19 14 day epidemiology report_20201118_website.pdf</SourceFileName>
@@ -13982,6 +14132,8 @@
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>16</ImportedCasesAbs>
         <ImportedCasesPcnt>0.28</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14 day epidemiology report_20201119_website.pdf</SourceFileName>
@@ -14166,6 +14318,8 @@
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>14</ImportedCasesAbs>
         <ImportedCasesPcnt>0.25</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20101120_website.pdf</SourceFileName>
@@ -14350,6 +14504,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>14</ImportedCasesAbs>
         <ImportedCasesPcnt>0.26</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20101121_website.pdf</SourceFileName>
@@ -14534,6 +14690,8 @@
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>9</ImportedCasesAbs>
         <ImportedCasesPcnt>0.17</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14 day epidemiology report_20201122_website.pdf</SourceFileName>
@@ -14718,6 +14876,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>9</ImportedCasesAbs>
         <ImportedCasesPcnt>0.17</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14 day epidemiology report_20201123_website.pdf</SourceFileName>
@@ -14902,6 +15062,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>6</ImportedCasesAbs>
         <ImportedCasesPcnt>0.12</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201124 _website.pdf</SourceFileName>
@@ -15086,6 +15248,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>6</ImportedCasesAbs>
         <ImportedCasesPcnt>0.12</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201125 - website.pdf</SourceFileName>
@@ -15270,6 +15434,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>5</ImportedCasesAbs>
         <ImportedCasesPcnt>0.1</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201126 - website.pdf</SourceFileName>
@@ -15454,6 +15620,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>4</ImportedCasesAbs>
         <ImportedCasesPcnt>0.08</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_27112020 - Website.pdf</SourceFileName>
@@ -15638,6 +15806,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>4</ImportedCasesAbs>
         <ImportedCasesPcnt>0.09</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day epidemiology report_Website_v2.0_28112020-Website.pdf</SourceFileName>
@@ -15822,6 +15992,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>2</ImportedCasesAbs>
         <ImportedCasesPcnt>0.04</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201129_website.pdf</SourceFileName>
@@ -16006,6 +16178,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>2</ImportedCasesAbs>
         <ImportedCasesPcnt>0.05</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201130_website.pdf</SourceFileName>
@@ -16190,6 +16364,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>2</ImportedCasesAbs>
         <ImportedCasesPcnt>0.05</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201201 - website.pdf</SourceFileName>
@@ -16374,6 +16550,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>2</ImportedCasesAbs>
         <ImportedCasesPcnt>0.05</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201202 - website.pdf</SourceFileName>
@@ -16558,6 +16736,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>3</ImportedCasesAbs>
         <ImportedCasesPcnt>0.07</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14 day epidemiology report_20201203_website.pdf</SourceFileName>
@@ -16742,6 +16922,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>4</ImportedCasesAbs>
         <ImportedCasesPcnt>0.11</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201204_website.pdf</SourceFileName>
@@ -16926,6 +17108,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>5</ImportedCasesAbs>
         <ImportedCasesPcnt>0.13</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201205_website.pdf</SourceFileName>
@@ -17110,6 +17294,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>7</ImportedCasesAbs>
         <ImportedCasesPcnt>0.18</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201206 - website.pdf</SourceFileName>
@@ -17294,6 +17480,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>7</ImportedCasesAbs>
         <ImportedCasesPcnt>0.18</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201207_website.pdf</SourceFileName>
@@ -17478,6 +17666,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>7</ImportedCasesAbs>
         <ImportedCasesPcnt>0.18</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201208_website.pdf</SourceFileName>
@@ -17662,6 +17852,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>9</ImportedCasesAbs>
         <ImportedCasesPcnt>0.24</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201209 - website.pdf</SourceFileName>
@@ -17846,6 +18038,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>13</ImportedCasesAbs>
         <ImportedCasesPcnt>0.34</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>63</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>1.66</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201210 - website.pdf</SourceFileName>
@@ -18030,6 +18224,8 @@
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>14</ImportedCasesAbs>
         <ImportedCasesPcnt>0.37</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>63</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>1.67</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201211 -Website.pdf</SourceFileName>
@@ -18214,6 +18410,8 @@
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>14</ImportedCasesAbs>
         <ImportedCasesPcnt>0.36</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>71</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>1.84</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14 day epidemiology report_20201212_website_v2.pdf</SourceFileName>
@@ -18398,6 +18596,8 @@
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>15</ImportedCasesAbs>
         <ImportedCasesPcnt>0.39</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>79</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>2.04</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19 14 day epidemiology report_20201213_website.pdf</SourceFileName>
@@ -18582,6 +18782,8 @@
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>17</ImportedCasesAbs>
         <ImportedCasesPcnt>0.42</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>89</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>2.22</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14 day epidemiology report_20201214_website.pdf</SourceFileName>
@@ -18766,6 +18968,8 @@
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>20</ImportedCasesAbs>
         <ImportedCasesPcnt>0.5</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>95</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>2.39</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201215 -Website.pdf</SourceFileName>
@@ -18950,6 +19154,8 @@
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>20</ImportedCasesAbs>
         <ImportedCasesPcnt>0.5</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>91</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>2.26</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201216 - website.pdf</SourceFileName>
@@ -19134,6 +19340,8 @@
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>17</ImportedCasesAbs>
         <ImportedCasesPcnt>0.41</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>90</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>2.15</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201217 - website.pdf</SourceFileName>
@@ -19318,6 +19526,8 @@
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>17</ImportedCasesAbs>
         <ImportedCasesPcnt>0.38</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>90</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>2.01</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201218 - website.pdf</SourceFileName>
@@ -19502,6 +19712,8 @@
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>15</ImportedCasesAbs>
         <ImportedCasesPcnt>0.31</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>91</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>1.90</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14 day epidemiology report_v1.0_19.12.2020_website.pdf</SourceFileName>
@@ -19686,6 +19898,8 @@
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>16</ImportedCasesAbs>
         <ImportedCasesPcnt>0.33</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>100</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>2.05</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_v1.0_20201220_website.pdf</SourceFileName>
@@ -19870,6 +20084,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>16</ImportedCasesAbs>
         <ImportedCasesPcnt>0.3</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>110</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>2.06</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14 day epidemiology report_20201221_Website.pdf</SourceFileName>
@@ -20054,6 +20270,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>15</ImportedCasesAbs>
         <ImportedCasesPcnt>0.26</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>112</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>1.92</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_v1.0_20201222_website.pdf</SourceFileName>
@@ -20238,6 +20456,8 @@
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>17</ImportedCasesAbs>
         <ImportedCasesPcnt>0.26</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_v1.0_20201223 website.pdf</SourceFileName>
@@ -20422,6 +20642,8 @@
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>19</ImportedCasesAbs>
         <ImportedCasesPcnt>0.26</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>125</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>1.71</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14 day epidemiology report_v0.1_24.12.2020 Website.pdf</SourceFileName>
@@ -20606,6 +20828,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>19</ImportedCasesAbs>
         <ImportedCasesPcnt>0.24</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>137</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>1.73</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>MISSING</SourceFileName>
@@ -20790,6 +21014,8 @@
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs></ImportedCasesAbs>
         <ImportedCasesPcnt></ImportedCasesPcnt>
+        <TravelRelatedCasesAbs></TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt></TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>MISSING</SourceFileName>
@@ -20974,6 +21200,8 @@
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs></ImportedCasesAbs>
         <ImportedCasesPcnt></ImportedCasesPcnt>
+        <TravelRelatedCasesAbs></TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt></TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day epidemiology report_v1.0_27.12.2020  - website.pdf</SourceFileName>
@@ -21158,6 +21386,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>16</ImportedCasesAbs>
         <ImportedCasesPcnt>0.16</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>124</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>1.24</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201228_website.pdf</SourceFileName>
@@ -21342,6 +21572,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>16</ImportedCasesAbs>
         <ImportedCasesPcnt>0.15</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>124</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>1.18</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14 day epidemiology report_20201229_Website.pdf</SourceFileName>
@@ -21526,6 +21758,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>15</ImportedCasesAbs>
         <ImportedCasesPcnt>0.13</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>121</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>1.03</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14 day epidemiology report_20201230_Website.pdf</SourceFileName>
@@ -21710,6 +21944,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>16</ImportedCasesAbs>
         <ImportedCasesPcnt>0.12</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>122</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.94</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20201231_website.pdf</SourceFileName>
@@ -21894,6 +22130,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>14</ImportedCasesAbs>
         <ImportedCasesPcnt>0.1</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>115</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.81</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20210101_website.pdf</SourceFileName>
@@ -22078,6 +22316,8 @@
         <CasesAdmittedToIcuUnknown></CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>13</ImportedCasesAbs>
         <ImportedCasesPcnt>0.08</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>102</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.67</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20210102_website.pdf</SourceFileName>
@@ -22262,6 +22502,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>11</ImportedCasesAbs>
         <ImportedCasesPcnt>0.06</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>92</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.51</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20210103_Website.pdf</SourceFileName>
@@ -22446,6 +22688,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>15</ImportedCasesAbs>
         <ImportedCasesPcnt>0.07</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>87</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.39</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20200104_website.pdf</SourceFileName>
@@ -22630,6 +22874,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>13</ImportedCasesAbs>
         <ImportedCasesPcnt>0.05</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>72</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.26</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20200105 - website.pdf</SourceFileName>
@@ -22814,6 +23060,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>0</ImportedCasesAbs>
         <ImportedCasesPcnt>0</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20210106_website.pdf</SourceFileName>
@@ -22998,6 +23246,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>10</ImportedCasesAbs>
         <ImportedCasesPcnt>0.03</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20210107_website.pdf</SourceFileName>
@@ -23182,6 +23432,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>10</ImportedCasesAbs>
         <ImportedCasesPcnt>0.02</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEBSITE report_20210108_updated_20200109.pdf</SourceFileName>
@@ -23366,6 +23618,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>0</ImportedCasesAbs>
         <ImportedCasesPcnt>0</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report-website_20200109.pdf</SourceFileName>
@@ -23550,6 +23804,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>0</ImportedCasesAbs>
         <ImportedCasesPcnt>0</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report-website_20200110.pdf</SourceFileName>
@@ -23734,6 +23990,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>0</ImportedCasesAbs>
         <ImportedCasesPcnt>0</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_Webite report_20210111_v1.pdf</SourceFileName>
@@ -23918,6 +24176,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>0</ImportedCasesAbs>
         <ImportedCasesPcnt>0</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210112_v1.pdf</SourceFileName>
@@ -24102,6 +24362,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>0</ImportedCasesAbs>
         <ImportedCasesPcnt>0</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210113_v1.pdf</SourceFileName>
@@ -24286,6 +24548,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>0</ImportedCasesAbs>
         <ImportedCasesPcnt>0</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210114.pdf</SourceFileName>
@@ -24470,6 +24734,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>0</ImportedCasesAbs>
         <ImportedCasesPcnt>0</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210115.pdf</SourceFileName>
@@ -24654,6 +24920,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>0</ImportedCasesAbs>
         <ImportedCasesPcnt>0</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20210116_WEB v2.pdf</SourceFileName>
@@ -24838,6 +25106,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>0</ImportedCasesAbs>
         <ImportedCasesPcnt>0</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19 14 day epidemiology report_20210117_WEB_v1.0.pdf</SourceFileName>
@@ -25022,6 +25292,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>0</ImportedCasesAbs>
         <ImportedCasesPcnt>0</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210118.pdf</SourceFileName>
@@ -25206,6 +25478,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>0</ImportedCasesAbs>
         <ImportedCasesPcnt>0</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210119.pdf</SourceFileName>
@@ -25390,6 +25664,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>0</ImportedCasesAbs>
         <ImportedCasesPcnt>0</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>0</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20200120.pdf</SourceFileName>
@@ -25574,6 +25850,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>11</ImportedCasesAbs>
         <ImportedCasesPcnt>0.02</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>168</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.29</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210121.pdf</SourceFileName>
@@ -25758,6 +26036,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>9</ImportedCasesAbs>
         <ImportedCasesPcnt>0.02</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>185</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.34</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210122_v1.pdf</SourceFileName>
@@ -25942,6 +26222,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>9</ImportedCasesAbs>
         <ImportedCasesPcnt>0.02</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>180</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.37</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19 14 day epidemiology report_20210123_website.pdf</SourceFileName>
@@ -26126,6 +26408,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>9</ImportedCasesAbs>
         <ImportedCasesPcnt>0.02</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>175</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.38</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20210124_Website.pdf</SourceFileName>
@@ -26310,6 +26594,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>10</ImportedCasesAbs>
         <ImportedCasesPcnt>0.02</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>167</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.42</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210125_v1.0.pdf</SourceFileName>
@@ -26494,6 +26780,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>9</ImportedCasesAbs>
         <ImportedCasesPcnt>0.02</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>154</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.42</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20210126 Website.pdf</SourceFileName>
@@ -26678,6 +26966,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>9</ImportedCasesAbs>
         <ImportedCasesPcnt>0.03</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>150</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.44</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20210127_Website.pdf</SourceFileName>
@@ -26862,6 +27152,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>9</ImportedCasesAbs>
         <ImportedCasesPcnt>0.03</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>143</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.45</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210128.pdf</SourceFileName>
@@ -27046,6 +27338,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>12</ImportedCasesAbs>
         <ImportedCasesPcnt>0.04</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>133</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.45</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210129_v1.pdf</SourceFileName>
@@ -27230,6 +27524,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>22</ImportedCasesAbs>
         <ImportedCasesPcnt>0.08</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>141</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.52</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19 14 day epidemiology report_30.01.2021 website.pdf</SourceFileName>
@@ -27414,6 +27710,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>22</ImportedCasesAbs>
         <ImportedCasesPcnt>0.09</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>129</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.50</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_31.01.2021 website.pdf</SourceFileName>
@@ -27598,6 +27896,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>22</ImportedCasesAbs>
         <ImportedCasesPcnt>0.09</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>129</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210201_v1.pdf</SourceFileName>
@@ -27782,6 +28082,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>22</ImportedCasesAbs>
         <ImportedCasesPcnt>0.1</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>130</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.57</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210202_v1.pdf</SourceFileName>
@@ -27966,6 +28268,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>20</ImportedCasesAbs>
         <ImportedCasesPcnt>0.09</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>124</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.57</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20200203 Website.pdf</SourceFileName>
@@ -28150,6 +28454,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>13</ImportedCasesAbs>
         <ImportedCasesPcnt>0.06</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>117</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.58</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210204_v1.pdf</SourceFileName>
@@ -28334,6 +28640,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>12</ImportedCasesAbs>
         <ImportedCasesPcnt>0.06</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>105</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.56</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210205_v1.pdf</SourceFileName>
@@ -28518,6 +28826,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>10</ImportedCasesAbs>
         <ImportedCasesPcnt>0.06</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>100</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.57</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20210205_WEB_v1.0.pdf</SourceFileName>
@@ -28702,6 +29012,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>8</ImportedCasesAbs>
         <ImportedCasesPcnt>0.05</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>89</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.54</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20210207 WEB.pdf</SourceFileName>
@@ -28886,6 +29198,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>8</ImportedCasesAbs>
         <ImportedCasesPcnt>0.05</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>82</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.51</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19 14 day epidemiology report_20200208_website.pdf</SourceFileName>
@@ -29070,6 +29384,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>6</ImportedCasesAbs>
         <ImportedCasesPcnt>0.04</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>81</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.52</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20210209_ Website.pdf</SourceFileName>
@@ -29254,6 +29570,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>7</ImportedCasesAbs>
         <ImportedCasesPcnt>0.05</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>86</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.57</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210210.pdf</SourceFileName>
@@ -29438,6 +29756,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>7</ImportedCasesAbs>
         <ImportedCasesPcnt>0.05</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>78</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.52</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210211.pdf</SourceFileName>
@@ -29622,6 +29942,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>8</ImportedCasesAbs>
         <ImportedCasesPcnt>0.06</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>78</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.55</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210212.pdf</SourceFileName>
@@ -29806,6 +30128,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>7</ImportedCasesAbs>
         <ImportedCasesPcnt>0.05</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>83</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.60</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20210213 Web.pdf</SourceFileName>
@@ -29990,6 +30314,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>6</ImportedCasesAbs>
         <ImportedCasesPcnt>0.04</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>77</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.56</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20210214_website.pdf</SourceFileName>
@@ -30174,6 +30500,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>4</ImportedCasesAbs>
         <ImportedCasesPcnt>0.03</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>76</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.58</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210215.pdf</SourceFileName>
@@ -30358,6 +30686,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>4</ImportedCasesAbs>
         <ImportedCasesPcnt>0.03</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>63</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.49</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20210216_WEB.pdf</SourceFileName>
@@ -30542,6 +30872,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>3</ImportedCasesAbs>
         <ImportedCasesPcnt>0.02</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>68</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.53</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210217.pdf</SourceFileName>
@@ -30726,6 +31058,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>4</ImportedCasesAbs>
         <ImportedCasesPcnt>0.03</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>65</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.52</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210218.pdf</SourceFileName>
@@ -30910,6 +31244,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>4</ImportedCasesAbs>
         <ImportedCasesPcnt>0.03</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>66</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.55</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20210219_WEB.pdf</SourceFileName>
@@ -31094,6 +31430,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>9</ImportedCasesAbs>
         <ImportedCasesPcnt>0.08</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>72</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.61</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_website_20210220.pdf</SourceFileName>
@@ -31278,6 +31616,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>10</ImportedCasesAbs>
         <ImportedCasesPcnt>0.08</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>72</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.60</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19 14 day epidemiology report 20210221 website.pdf</SourceFileName>
@@ -31462,6 +31802,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>11</ImportedCasesAbs>
         <ImportedCasesPcnt>0.1</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>72</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.62</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20210222_WEB.pdf</SourceFileName>
@@ -31646,6 +31988,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>11</ImportedCasesAbs>
         <ImportedCasesPcnt>0.1</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>73</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.64</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_report_20210223_WEB.pdf</SourceFileName>
@@ -31830,6 +32174,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>11</ImportedCasesAbs>
         <ImportedCasesPcnt>0.1</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>76</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.66</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210224_v1.0.pdf</SourceFileName>
@@ -32014,6 +32360,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>9</ImportedCasesAbs>
         <ImportedCasesPcnt>0.08</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>72</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.65</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210225_v1.0.pdf</SourceFileName>
@@ -32198,6 +32546,8 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>13</ImportedCasesAbs>
         <ImportedCasesPcnt>0.12</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>71</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.66</TravelRelatedCasesPcnt>
     </Day>
     <Day>
         <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210226_v1.0.pdf</SourceFileName>
@@ -32382,5 +32732,7 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
         <ImportedCasesAbs>14</ImportedCasesAbs>
         <ImportedCasesPcnt>0.13</ImportedCasesPcnt>
+        <TravelRelatedCasesAbs>79</TravelRelatedCasesAbs>
+        <TravelRelatedCasesPcnt>0.74</TravelRelatedCasesPcnt>
     </Day>
 </Days>
