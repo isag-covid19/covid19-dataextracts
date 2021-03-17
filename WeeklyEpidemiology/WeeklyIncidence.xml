@@ -1106,81 +1106,81 @@
         <Age0To4Abs>322</Age0To4Abs>
         <Age0To4Rate>97.1</Age0To4Rate>
           
-        <Age13To18Abs>733</Age13To18Abs>
-        <Age13To18Rate>197.3</Age13To18Rate>
+        <Age13To18Abs>732</Age13To18Abs>
+        <Age13To18Rate>197.0</Age13To18Rate>
           
-        <Age19To24Abs>1515</Age19To24Abs>
-        <Age19To24Rate>457.4</Age19To24Rate>
+        <Age19To24Abs>1519</Age19To24Abs>
+        <Age19To24Rate>458.6</Age19To24Rate>
           
-        <Age25To34Abs>2629</Age25To34Abs>
-        <Age25To34Rate>398.7</Age25To34Rate>
+        <Age25To34Abs>2632</Age25To34Abs>
+        <Age25To34Rate>399.1</Age25To34Rate>
           
-        <Age35To44Abs>2586</Age35To44Abs>
-        <Age35To44Rate>346.2</Age35To44Rate>
+        <Age35To44Abs>2583</Age35To44Abs>
+        <Age35To44Rate>345.8</Age35To44Rate>
           
-        <Age45To54Abs>2431</Age45To54Abs>
-        <Age45To54Rate>388.3</Age45To54Rate>
+        <Age45To54Abs>2426</Age45To54Abs>
+        <Age45To54Rate>387.5</Age45To54Rate>
           
         <Age5To12Abs>502</Age5To12Abs>
         <Age5To12Rate>91.5</Age5To12Rate>
           
-        <Age55To64Abs>1782</Age55To64Abs>
-        <Age55To64Rate>350.1</Age55To64Rate>
+        <Age55To64Abs>1778</Age55To64Abs>
+        <Age55To64Rate>349.3</Age55To64Rate>
           
-        <Age65To74Abs>875</Age65To74Abs>
-        <Age65To74Rate>234.3</Age65To74Rate>
+        <Age65To74Abs>874</Age65To74Abs>
+        <Age65To74Rate>234.0</Age65To74Rate>
           
-        <Age75To84Abs>793</Age75To84Abs>
-        <Age75To84Rate>403.6</Age75To84Rate>
+        <Age75To84Abs>791</Age75To84Abs>
+        <Age75To84Rate>402.5</Age75To84Rate>
           
-        <Age85PlusAbs>658</Age85PlusAbs>
-        <Age85PlusRate>974.0</Age85PlusRate>
+        <Age85PlusAbs>654</Age85PlusAbs>
+        <Age85PlusRate>968.1</Age85PlusRate>
           
-        <AgeNationalAbs>14843</AgeNationalAbs>
-        <AgeNationalRate>311.7</AgeNationalRate>
+        <AgeNationalAbs>14814</AgeNationalAbs>
+        <AgeNationalRate>311.1</AgeNationalRate>
     </Week>
     <Week>
         <Number>57</Number>          
-        <Age0To4Abs>281</Age0To4Abs>
-        <Age0To4Rate>84.8</Age0To4Rate>
+        <Age0To4Abs>279</Age0To4Abs>
+        <Age0To4Rate>84.2</Age0To4Rate>
           
-        <Age13To18Abs>504</Age13To18Abs>
-        <Age13To18Rate>135.6</Age13To18Rate>
+        <Age13To18Abs>503</Age13To18Abs>
+        <Age13To18Rate>135.4</Age13To18Rate>
           
-        <Age19To24Abs>903</Age19To24Abs>
-        <Age19To24Rate>272.6</Age19To24Rate>
+        <Age19To24Abs>899</Age19To24Abs>
+        <Age19To24Rate>271.4</Age19To24Rate>
           
-        <Age25To34Abs>1469</Age25To34Abs>
-        <Age25To34Rate>222.8</Age25To34Rate>
+        <Age25To34Abs>1457</Age25To34Abs>
+        <Age25To34Rate>221.0</Age25To34Rate>
           
-        <Age35To44Abs>1515</Age35To44Abs>
-        <Age35To44Rate>202.8</Age35To44Rate>
+        <Age35To44Abs>1497</Age35To44Abs>
+        <Age35To44Rate>200.4</Age35To44Rate>
           
-        <Age45To54Abs>1382</Age45To54Abs>
-        <Age45To54Rate>220.8</Age45To54Rate>
+        <Age45To54Abs>1370</Age45To54Abs>
+        <Age45To54Rate>218.8</Age45To54Rate>
           
-        <Age5To12Abs>353</Age5To12Abs>
-        <Age5To12Rate>64.3</Age5To12Rate>
+        <Age5To12Abs>350</Age5To12Abs>
+        <Age5To12Rate>63.8</Age5To12Rate>
           
-        <Age55To64Abs>985</Age55To64Abs>
-        <Age55To64Rate>193.5</Age55To64Rate>
+        <Age55To64Abs>980</Age55To64Abs>
+        <Age55To64Rate>192.6</Age55To64Rate>
           
-        <Age65To74Abs>551</Age65To74Abs>
-        <Age65To74Rate>147.5</Age65To74Rate>
+        <Age65To74Abs>548</Age65To74Abs>
+        <Age65To74Rate>146.7</Age65To74Rate>
           
-        <Age75To84Abs>547</Age75To84Abs>
-        <Age75To84Rate>278.4</Age75To84Rate>
+        <Age75To84Abs>541</Age75To84Abs>
+        <Age75To84Rate>275.3</Age75To84Rate>
           
-        <Age85PlusAbs>511</Age85PlusAbs>
-        <Age85PlusRate>756.4</Age85PlusRate>
+        <Age85PlusAbs>504</Age85PlusAbs>
+        <Age85PlusRate>746.1</Age85PlusRate>
           
-        <AgeNationalAbs>9000</AgeNationalAbs>
-        <AgeNationalRate>189.0</AgeNationalRate>
+        <AgeNationalAbs>8928</AgeNationalAbs>
+        <AgeNationalRate>187.5</AgeNationalRate>
     </Week>
     <Week>
         <Number>58</Number>          
-        <Age0To4Abs>214</Age0To4Abs>
-        <Age0To4Rate>64.6</Age0To4Rate>
+        <Age0To4Abs>215</Age0To4Abs>
+        <Age0To4Rate>64.9</Age0To4Rate>
           
         <Age13To18Abs>462</Age13To18Abs>
         <Age13To18Rate>124.3</Age13To18Rate>
@@ -1188,8 +1188,8 @@
         <Age19To24Abs>818</Age19To24Abs>
         <Age19To24Rate>247.0</Age19To24Rate>
           
-        <Age25To34Abs>1133</Age25To34Abs>
-        <Age25To34Rate>171.8</Age25To34Rate>
+        <Age25To34Abs>1132</Age25To34Abs>
+        <Age25To34Rate>171.7</Age25To34Rate>
           
         <Age35To44Abs>1209</Age35To44Abs>
         <Age35To44Rate>161.9</Age35To44Rate>
@@ -1232,14 +1232,14 @@
         <Age35To44Abs>926</Age35To44Abs>
         <Age35To44Rate>124.0</Age35To44Rate>
           
-        <Age45To54Abs>803</Age45To54Abs>
-        <Age45To54Rate>128.3</Age45To54Rate>
+        <Age45To54Abs>802</Age45To54Abs>
+        <Age45To54Rate>128.1</Age45To54Rate>
           
         <Age5To12Abs>468</Age5To12Abs>
         <Age5To12Rate>85.3</Age5To12Rate>
           
-        <Age55To64Abs>559</Age55To64Abs>
-        <Age55To64Rate>109.8</Age55To64Rate>
+        <Age55To64Abs>560</Age55To64Abs>
+        <Age55To64Rate>110.0</Age55To64Rate>
           
         <Age65To74Abs>290</Age65To74Abs>
         <Age65To74Rate>77.6</Age65To74Rate>
@@ -1267,8 +1267,8 @@
         <Age25To34Abs>869</Age25To34Abs>
         <Age25To34Rate>131.8</Age25To34Rate>
           
-        <Age35To44Abs>866</Age35To44Abs>
-        <Age35To44Rate>115.9</Age35To44Rate>
+        <Age35To44Abs>865</Age35To44Abs>
+        <Age35To44Rate>115.8</Age35To44Rate>
           
         <Age45To54Abs>653</Age45To54Abs>
         <Age45To54Rate>104.3</Age45To54Rate>
@@ -1288,8 +1288,8 @@
         <Age85PlusAbs>135</Age85PlusAbs>
         <Age85PlusRate>199.8</Age85PlusRate>
           
-        <AgeNationalAbs>5533</AgeNationalAbs>
-        <AgeNationalRate>116.2</AgeNationalRate>
+        <AgeNationalAbs>5529</AgeNationalAbs>
+        <AgeNationalRate>116.1</AgeNationalRate>
     </Week>
     <Week>
         <Number>61</Number>          
@@ -1305,8 +1305,8 @@
         <Age25To34Abs>744</Age25To34Abs>
         <Age25To34Rate>112.8</Age25To34Rate>
           
-        <Age35To44Abs>715</Age35To44Abs>
-        <Age35To44Rate>95.7</Age35To44Rate>
+        <Age35To44Abs>713</Age35To44Abs>
+        <Age35To44Rate>95.5</Age35To44Rate>
           
         <Age45To54Abs>621</Age45To54Abs>
         <Age45To54Rate>99.2</Age45To54Rate>
@@ -1326,8 +1326,8 @@
         <Age85PlusAbs>105</Age85PlusAbs>
         <Age85PlusRate>155.4</Age85PlusRate>
           
-        <AgeNationalAbs>4557</AgeNationalAbs>
-        <AgeNationalRate>95.7</AgeNationalRate>
+        <AgeNationalAbs>4552</AgeNationalAbs>
+        <AgeNationalRate>95.6</AgeNationalRate>
     </Week>
     <Week>
         <Number>62</Number>          
@@ -1337,14 +1337,14 @@
         <Age13To18Abs>276</Age13To18Abs>
         <Age13To18Rate>74.3</Age13To18Rate>
           
-        <Age19To24Abs>484</Age19To24Abs>
-        <Age19To24Rate>146.1</Age19To24Rate>
+        <Age19To24Abs>481</Age19To24Abs>
+        <Age19To24Rate>145.2</Age19To24Rate>
           
-        <Age25To34Abs>634</Age25To34Abs>
-        <Age25To34Rate>96.1</Age25To34Rate>
+        <Age25To34Abs>633</Age25To34Abs>
+        <Age25To34Rate>96.0</Age25To34Rate>
           
-        <Age35To44Abs>550</Age35To44Abs>
-        <Age35To44Rate>73.6</Age35To44Rate>
+        <Age35To44Abs>546</Age35To44Abs>
+        <Age35To44Rate>73.1</Age35To44Rate>
           
         <Age45To54Abs>448</Age45To54Abs>
         <Age45To54Rate>71.6</Age45To54Rate>
@@ -1364,7 +1364,45 @@
         <Age85PlusAbs>47</Age85PlusAbs>
         <Age85PlusRate>69.6</Age85PlusRate>
           
-        <AgeNationalAbs>3643</AgeNationalAbs>
-        <AgeNationalRate>76.5</AgeNationalRate>
+        <AgeNationalAbs>3633</AgeNationalAbs>
+        <AgeNationalRate>76.3</AgeNationalRate>
+    </Week>
+    <Week>
+        <Number>63</Number>          
+        <Age0To4Abs>220</Age0To4Abs>
+        <Age0To4Rate>66.4</Age0To4Rate>
+          
+        <Age13To18Abs>316</Age13To18Abs>
+        <Age13To18Rate>85.0</Age13To18Rate>
+          
+        <Age19To24Abs>508</Age19To24Abs>
+        <Age19To24Rate>153.4</Age19To24Rate>
+          
+        <Age25To34Abs>582</Age25To34Abs>
+        <Age25To34Rate>88.3</Age25To34Rate>
+          
+        <Age35To44Abs>581</Age35To44Abs>
+        <Age35To44Rate>77.8</Age35To44Rate>
+          
+        <Age45To54Abs>429</Age45To54Abs>
+        <Age45To54Rate>68.5</Age45To54Rate>
+          
+        <Age5To12Abs>352</Age5To12Abs>
+        <Age5To12Rate>64.2</Age5To12Rate>
+          
+        <Age55To64Abs>265</Age55To64Abs>
+        <Age55To64Rate>52.1</Age55To64Rate>
+          
+        <Age65To74Abs>157</Age65To74Abs>
+        <Age65To74Rate>42.0</Age65To74Rate>
+          
+        <Age75To84Abs>98</Age75To84Abs>
+        <Age75To84Rate>49.9</Age75To84Rate>
+          
+        <Age85PlusAbs>33</Age85PlusAbs>
+        <Age85PlusRate>48.8</Age85PlusRate>
+          
+        <AgeNationalAbs>3543</AgeNationalAbs>
+        <AgeNationalRate>74.4</AgeNationalRate>
     </Week>
 </Days>
